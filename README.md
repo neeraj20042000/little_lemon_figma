@@ -11,6 +11,13 @@ The files are:
 
 4\.  High Fidelity Prototype of the application
 
+## Clone the Repository
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/neeraj20042000/little_lemon_figma.git
+```
 ## Open file on Figma website
 
 - Import file on figma website to open file
